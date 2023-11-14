@@ -25,12 +25,15 @@ students_marks = {
 }
 
 def best_student(students_marks):
-    best_mark = 0
-    best_student = ''
-    for i in students_marks:
-        if students_marks[i] > best_mark:
-            best_mark = students_marks[i]
-            best_student = i
-    print(f'The best student is {best_student} with a mark of {best_mark}')
+    if len(students_marks) == 0:
+        print('There are no students in this class')
+    else:
+        best_mark = 0
+        best_student = ''
+        for i in students_marks:
+            if students_marks[i] > best_mark:
+                best_mark = students_marks[i]
+                best_student = i
+        print(f'The best student is {best_student} with a mark of {best_mark}')
 
 best_student(students_marks)
