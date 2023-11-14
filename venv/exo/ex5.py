@@ -1,0 +1,1 @@
+# Fonctions : Écrivez une fonction qui calcule le factoriel d'un nombre.

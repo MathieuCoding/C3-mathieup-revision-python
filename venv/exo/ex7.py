@@ -1,0 +1,1 @@
+# Fichiers : Écrivez un programme qui lit un fichier texte, compte le nombre de mots et écrit le résultat dans un autre fichier.
