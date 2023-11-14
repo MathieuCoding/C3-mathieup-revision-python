@@ -1,1 +1,0 @@
-# Compréhension de liste : Utilisez la compréhension de liste pour créer une liste des carrés des nombres de 1 à 10.
