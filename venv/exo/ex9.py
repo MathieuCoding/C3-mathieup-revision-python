@@ -1,1 +1,1 @@
-# Compréhension de liste : Utilisez la compréhension de liste pour créer une liste des carrés des nombres de 1 à 10.
+# Compréhension de liste : Utilisez la compréhension de liste de 10 éléments dans laquelle il faudra calculer le nombre élevé au carré de chaque élément
